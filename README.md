@@ -1,10 +1,8 @@
 # MFW HUD 
 
 ## PREVIEW
-
-# [PREVIEW IN CAR] (https://media.discordapp.net/attachments/1132275523964375090/1132275593195561000/Screenshot_2023-07-22_170236.png?width=1191&height=670) 
-
-# PREVIEW ON FOOT - https://media.discordapp.net/attachments/1132275523964375090/1132275594189611079/Screenshot_2023-07-22_170438.png?width=1191&height=670
+![Screenshot_2023-07-22_170236](https://github.com/GodsDevelopment69/mfw-hud/assets/116272690/f3d2f29a-c23e-4793-acc2-3550c147d047)
+![Screenshot_2023-07-22_170438](https://github.com/GodsDevelopment69/mfw-hud/assets/116272690/325c0954-7b00-4f16-96b3-cea79e64d7ff)
 
 # HOW TO INSTALL MFW-HUD
 
