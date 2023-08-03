@@ -1,4 +1,4 @@
-# MFW HUD 
+# MFW HUD QBCORE
 
 ## PREVIEW
 
