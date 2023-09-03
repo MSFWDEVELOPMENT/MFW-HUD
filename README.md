@@ -2,9 +2,7 @@
 
 ## PREVIEW
 
-# PREVIEW IN CAR : https://media.discordapp.net/attachments/1136693609505235024/1136695612688060507/Screenshot_2023-07-22_170236.png?width=1191&height=670
-
-# PREVIEW ON FOOT : https://media.discordapp.net/attachments/1136693609505235024/1136695613514330236/Screenshot_2023-07-22_170438.png?width=1191&height=670
+# PREVIEW : https://media.discordapp.net/attachments/1136693609505235024/1147951363628748861/image.png?width=665&height=442
 
 # HOW TO INSTALL MFW-HUD
 
